@@ -639,6 +639,9 @@ footer {
     padding: 20px;
     margin-top: 20px;
   }
+  .footer-content ul li {
+    margin: 0 10px;
+  }
   .footer-copyright {
     height: 20px;
     width: auto;
