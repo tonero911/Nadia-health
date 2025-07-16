@@ -130,8 +130,9 @@ nav ul li a {
   margin-bottom: 30px;
 }
 .ptn {
+  display: block;
   width: 90%;
-  margin: 0 auto 50px auto;
+  margin: 0 auto 30px auto;
 }
 .ptns h3 {
   font-family: "Bebas Neue", sans-serif;
@@ -538,6 +539,11 @@ footer {
   }
   .hero-content {
     flex-direction: column;
+  }
+  .ptn {
+    display: block;
+    width: 100%;
+    margin: 0 auto 30px auto;
   }
   .left-hero,
   .right-hero {
