@@ -639,6 +639,10 @@ footer {
     padding: 20px;
     margin-top: 20px;
   }
+  .footer-content ul {
+    display: flex;
+    flex-direction: column;
+  }
   .footer-content ul li {
     margin: 0 10px;
   }
@@ -648,8 +652,9 @@ footer {
     margin-bottom: 20px;
   }
   .footer-social {
+    display: none;
     width: auto;
-    height: 25px;
+    height: 20px;
     margin-bottom: 20px;
   }
 }
