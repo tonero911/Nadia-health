@@ -647,14 +647,14 @@ footer {
     margin: 0 10px;
   }
   .footer-copyright {
-    height: 20px;
+    height: 15px;
     width: auto;
     margin-bottom: 20px;
   }
   .footer-social {
-    display: none;
     width: auto;
-    height: 20px;
+    height: auto;
+    width: 100%;
     margin-bottom: 20px;
   }
 }
